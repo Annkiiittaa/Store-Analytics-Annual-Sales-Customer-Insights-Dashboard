@@ -64,3 +64,7 @@ Identifies the highest-selling product categories and provides insight into cust
 The analysis highlights women as the major customer group (~65%), with Maharashtra, Karnataka, and Uttar Pradesh among the top-performing states (~35%). The 30–49 age group contributes around 50% of sales, while Amazon, Flipkart, and Myntra together contribute approximately 80% of sales.
 
 Based on these insights, Vrinda Store can focus its marketing efforts on women aged 30–49 in the top-performing states, using targeted ads, offers, and coupons across Amazon, Flipkart, and Myntra to drive higher sales in 2023.
+
+
+# Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/Annkiiittaa/Store-Analytics-Annual-Sales-Customer-Insights-Dashboard/blob/main/vrinda%20store%20analysis.JPG)
